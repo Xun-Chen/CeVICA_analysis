@@ -1,0 +1,9 @@
+python 3.7 or newer version
+https://www.python.org/
+
+xlwt
+https://pypi.org/project/xlwt/
+
+xlrd
+https://pypi.org/project/xlrd/
+
